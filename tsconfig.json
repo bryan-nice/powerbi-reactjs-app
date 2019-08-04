@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "umd",
+        "moduleResolution": "node",
+        "target": "es5",
+        "jsx": "react",
+        "noImplicitAny": true,
+        "sourceMap": true,
+        "outDir": "dist"
+    },
+    "exclude": [
+        "node_modules",
+        "typings/index.d.ts",
+        "dist"
+    ]
+}
