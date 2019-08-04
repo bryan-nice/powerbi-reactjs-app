@@ -672,3 +672,8 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+----
+
+This repo also inherits the licenses from these code origins:
+- Microsoft, 2016, PowerBI-React, GitHub repository, https://github.com/microsoft/PowerBI-React.git, Commit Id: f63823e7a494d73b6793413aed00d2ce92ed4826
